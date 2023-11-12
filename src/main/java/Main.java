@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hej igen");
         Cat cat = new Cat();
         cat.eatFood("fish");
+        Dog dog = new Dog();
+        dog.eatFood("fish");
     }
 }
